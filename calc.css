@@ -1,0 +1,18 @@
+
+    body{
+      margin: auto;
+      margin-top: 80px;
+    }
+    table{
+      color:yellow;
+      text-align: center;
+      background-color: gray;
+    }
+    button{
+      background-size: cover;
+    }
+    h3{
+      text-decoration: underline;
+      color:brown;
+      font-style: oblique;
+    }
